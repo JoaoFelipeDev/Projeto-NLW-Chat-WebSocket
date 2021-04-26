@@ -2,9 +2,11 @@
  Projeto da NLW usando WebSocket
  
  Projeto elaborado com sqlite e WebSocket
- ![gif1](https://user-images.githubusercontent.com/64882503/116106162-5c588400-a688-11eb-880e-f541c555a128.gif)
+ 
+![gif1](https://user-images.githubusercontent.com/64882503/116106162-5c588400-a688-11eb-880e-f541c555a128.gif)
 
 Abrindo chat e listando as conversas do cliente
+
 ![gif2](https://user-images.githubusercontent.com/64882503/116106494-890c9b80-a688-11eb-8b30-5cd02a6d1a2b.gif)
 
 Listando clientes não atendidos para o admin de atendimento
