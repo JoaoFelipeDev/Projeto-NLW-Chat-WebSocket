@@ -1,0 +1,14 @@
+yarn add @types/express -D (instalar tipagens do ts e express);
+yarn add typescript -D (instalar typescript);
+yarn tsc --init (criar arquivo de configuração do ts); -- "strict": false, 
+yarn add  ts-node-dev -D
+yarn add typeorm --save (instalar typeorm);
+yarn add reflect-metadata --save;
+yarn add sqlite3 --save;
+yarn add uuid;
+yarn add @types/uuid -D;
+yarn add socket.io;
+yarn add @types/socket.io -D;
+yarn add socket.io-client;
+
+
